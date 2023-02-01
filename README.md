@@ -1,0 +1,1 @@
+This code includes a high order ODE solver implementation for double pendulum dynamic equations to create an animation using instantaneous axes of MATLAB. Change L1, M1, L2, M2, deltaTime and Time_end parameters to configure simulation.
